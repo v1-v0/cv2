@@ -1,7 +1,10 @@
 .venv/
+
 .DS_Store
 Thumbs.db
+settings.json
+
 *.png
 *.jpg
 *.zip
-settings.json
+
